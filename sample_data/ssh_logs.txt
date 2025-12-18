@@ -1,0 +1,50 @@
+Dec 14 09:41:57 PREDATORF4 sshd[5662]: Failed password for root from 211.12.33.44 port 43274 ssh2
+Dec 14 18:16:09 PREDATORF4 sshd[9929]: Accepted password for saul from 192.168.1.50 port 60235 ssh2
+Dec 14 17:03:16 PREDATORF4 sshd[1361]: Accepted password for saul from 192.168.1.50 port 17381 ssh2
+Dec 14 04:05:49 PREDATORF4 sshd[7906]: Accepted password for saul from 192.168.1.50 port 55986 ssh2
+Dec 14 17:37:06 PREDATORF4 sshd[8345]: Failed password for invalid user saul from 192.168.1.5 port 28338 ssh2
+Dec 14 12:53:11 PREDATORF4 sshd[4176]: Failed password for admin from 45.33.22.11 port 62225 ssh2
+Dec 14 00:08:24 PREDATORF4 sshd[5703]: Failed password for invalid user saul from 192.168.1.5 port 40244 ssh2
+Dec 14 06:25:35 PREDATORF4 sshd[4074]: Accepted password for saul from 192.168.1.50 port 56200 ssh2
+Dec 14 02:35:32 PREDATORF4 sshd[3696]: Failed password for admin from 211.12.33.44 port 41053 ssh2
+Dec 14 07:12:50 PREDATORF4 sshd[3870]: Accepted password for saul from 192.168.1.50 port 59618 ssh2
+Dec 14 18:18:49 PREDATORF4 sshd[4361]: Failed password for invalid user saul from 211.12.33.44 port 32361 ssh2
+Dec 14 15:00:35 PREDATORF4 sshd[9916]: Accepted password for saul from 192.168.1.50 port 29451 ssh2
+Dec 14 03:26:36 PREDATORF4 sshd[8470]: Failed password for invalid user root from 10.0.0.2 port 28235 ssh2
+Dec 14 10:47:31 PREDATORF4 sshd[9060]: Failed password for root from 211.12.33.44 port 62588 ssh2
+Dec 14 22:09:14 PREDATORF4 sshd[2878]: Failed password for invalid user root from 45.33.22.11 port 32087 ssh2
+Dec 14 11:55:18 PREDATORF4 sshd[6492]: Failed password for root from 10.0.0.2 port 39906 ssh2
+Dec 14 04:13:35 PREDATORF4 sshd[7880]: Failed password for support from 211.12.33.44 port 50764 ssh2
+Dec 14 16:06:27 PREDATORF4 sshd[3383]: Failed password for admin from 192.168.1.5 port 11264 ssh2
+Dec 14 12:17:15 PREDATORF4 sshd[2320]: Failed password for invalid user ubuntu from 45.33.22.11 port 56310 ssh2
+Dec 14 07:09:13 PREDATORF4 sshd[4473]: Failed password for invalid user root from 10.0.0.2 port 61090 ssh2
+Dec 14 01:41:19 PREDATORF4 sshd[1758]: Accepted password for saul from 192.168.1.50 port 3400 ssh2
+Dec 14 09:21:06 PREDATORF4 sshd[9729]: Failed password for invalid user support from 192.168.1.5 port 29030 ssh2
+Dec 14 05:51:10 PREDATORF4 sshd[8812]: Failed password for invalid user admin from 211.12.33.44 port 11567 ssh2
+Dec 14 20:39:58 PREDATORF4 sshd[6577]: Failed password for admin from 45.33.22.11 port 7240 ssh2
+Dec 14 03:27:22 PREDATORF4 sshd[6811]: Failed password for saul from 211.12.33.44 port 40314 ssh2
+Dec 14 11:24:33 PREDATORF4 sshd[5664]: Accepted password for saul from 192.168.1.50 port 47839 ssh2
+Dec 14 04:36:45 PREDATORF4 sshd[1091]: Failed password for invalid user root from 211.12.33.44 port 39118 ssh2
+Dec 14 18:32:38 PREDATORF4 sshd[2037]: Failed password for ubuntu from 192.168.1.5 port 57105 ssh2
+Dec 14 01:25:01 PREDATORF4 sshd[7110]: Failed password for invalid user root from 45.33.22.11 port 59405 ssh2
+Dec 14 14:50:25 PREDATORF4 sshd[3494]: Failed password for invalid user support from 45.33.22.11 port 17267 ssh2
+Dec 14 04:13:11 PREDATORF4 sshd[2491]: Failed password for ubuntu from 45.33.22.11 port 51047 ssh2
+Dec 14 03:30:40 PREDATORF4 sshd[5813]: Failed password for invalid user admin from 211.12.33.44 port 35241 ssh2
+Dec 14 07:06:42 PREDATORF4 sshd[6878]: Failed password for invalid user saul from 211.12.33.44 port 52312 ssh2
+Dec 14 21:03:15 PREDATORF4 sshd[7191]: Failed password for root from 192.168.1.5 port 27043 ssh2
+Dec 14 16:18:43 PREDATORF4 sshd[8046]: Failed password for admin from 192.168.1.5 port 40664 ssh2
+Dec 14 23:08:24 PREDATORF4 sshd[9577]: Failed password for root from 45.33.22.11 port 17516 ssh2
+Dec 14 09:29:16 PREDATORF4 sshd[2350]: Failed password for root from 45.33.22.11 port 16902 ssh2
+Dec 14 23:13:17 PREDATORF4 sshd[8356]: Failed password for invalid user admin from 211.12.33.44 port 63811 ssh2
+Dec 14 18:46:05 PREDATORF4 sshd[6867]: Accepted password for saul from 192.168.1.50 port 59189 ssh2
+Dec 14 23:52:50 PREDATORF4 sshd[9518]: Failed password for admin from 192.168.1.5 port 43359 ssh2
+Dec 14 14:14:46 PREDATORF4 sshd[8445]: Accepted password for saul from 192.168.1.50 port 29527 ssh2
+Dec 14 12:57:48 PREDATORF4 sshd[3795]: Failed password for ubuntu from 211.12.33.44 port 15490 ssh2
+Dec 14 00:54:30 PREDATORF4 sshd[9260]: Failed password for invalid user support from 45.33.22.11 port 52350 ssh2
+Dec 14 22:25:51 PREDATORF4 sshd[4236]: Failed password for invalid user support from 211.12.33.44 port 23737 ssh2
+Dec 14 23:04:59 PREDATORF4 sshd[7642]: Failed password for invalid user saul from 211.12.33.44 port 42554 ssh2
+Dec 14 00:35:52 PREDATORF4 sshd[9881]: Failed password for invalid user admin from 45.33.22.11 port 61855 ssh2
+Dec 14 07:33:11 PREDATORF4 sshd[9378]: Failed password for ubuntu from 211.12.33.44 port 22497 ssh2
+Dec 14 16:37:59 PREDATORF4 sshd[8129]: Failed password for root from 10.0.0.2 port 41638 ssh2
+Dec 14 07:43:32 PREDATORF4 sshd[4321]: Failed password for invalid user support from 192.168.1.5 port 61588 ssh2
+Dec 14 12:36:51 PREDATORF4 sshd[5434]: Failed password for invalid user ubuntu from 211.12.33.44 port 63570 ssh2
