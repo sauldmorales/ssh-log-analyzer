@@ -1,26 +1,66 @@
 # SSH Log Analyzer
 
-Python tool to detect and analyze SSH brute-force attempts from Linux auth logs.
+Python tool to detect SSH brute-force attempts from Linux authentication logs.
 
-## What this project does
+---
+
+## What it does
+
 - Parses SSH authentication logs
 - Detects failed login attempts using regex
 - Extracts attacker IPs
 - Counts attempts per IP
-- Outputs a structured JSON report
-- Includes unit tests for the parser logic
+- Outputs structured results
+- Includes automated tests for parser robustness
 
-## Why this matters
-SSH brute-force attacks are one of the most common entry points in compromised servers.
-This tool demonstrates basic threat detection, log analysis, and defensive thinking.
+This project focuses on **defensive security**, log analysis, and detection logic.
 
-## Technologies used
-- Python 3
-- Regex
+---
+
+## Quickstart
+
+### Requirements
+
+- Python 3.11+
+- Linux / WSL
 - Git
-- pytest
 
-## How to run
+---
+
+## Setup
+
 ```bash
-python src/ssh_analyzer.py
-Note: This project uses sample log files for demonstration purposes only.
+git clone https://github.com/sauldmorales/ssh-log-analyzer.git
+cd ssh-log-analyzer
+
+python -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
+
+## Run analyzer
+
+python -m src.ssh_analyzer sample_data/auth.log
+
+## Example output
+
+Attacks detected: 40
+Top attacker: 192.168.1.5 (12 attempts)
+
+## Run tests
+
+python -m pytest -q
+
+## Generate sample logs
+
+python generate_dummy_logs.py
+
+##Security notes
+
+Do NOT upload real server logs
+
+Do NOT commit secrets or credentials
+
+Only use dummy or sanitized data in sample_data/
+
+## This repository is for educational and defensive security purposes only.
